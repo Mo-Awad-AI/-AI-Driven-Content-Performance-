@@ -33,6 +33,7 @@ Capture executive/team feedback, refine tagging and analytics, and continuously 
 **Architecture & Workflow**
 
 _End-to-End Pipeline (“Data In” to “Insights Out”):_
+
 **Raw Content Data**
 ⬇️
 

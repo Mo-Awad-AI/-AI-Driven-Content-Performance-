@@ -58,6 +58,6 @@ Where are the anomalies—hidden winners and unexpected laggards?
 How can we automate this process so the CMO never waits for insights?_
 
 The Tools I Used: 
-_Azure AI Studio account (with OpenAI and Cognitive Services enabled)
-Python 3.8+ 
+_Azure AI Studio account (with OpenAI and Cognitive Services enabled),
+Python 3.8+,
 Sample data files (CSV/Excel)_

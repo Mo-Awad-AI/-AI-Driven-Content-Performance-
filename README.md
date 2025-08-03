@@ -11,7 +11,8 @@ Manual content reporting is slow, inconsistent, and often delivers too little, t
 **Solution:**
 AgentC automates the entire pipeline—from data ingestion and classification to performance analysis, anomaly detection, and CMO-ready executive summaries.
 
-**Features**
+**Features:**
+
 _Automated Data Ingestion:_
 Upload raw content data (Excel, CSV, or cloud files) from multiple channels—no manual copy-paste required.
 

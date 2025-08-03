@@ -31,7 +31,7 @@ Generate and deliver boardroom-ready summaries, monthly trend reports, and actio
 _Continuous Feedback Loop:_
 Capture executive/team feedback, refine tagging and analytics, and continuously improve the process and models.
 
-**Architecture & Workflow**
+**Architecture & Workflow:**
 
 _End-to-End Pipeline (“Data In” to “Insights Out”):_
 

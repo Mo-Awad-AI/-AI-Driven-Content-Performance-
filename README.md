@@ -31,8 +31,9 @@ _Continuous Feedback Loop:_
 Capture executive/team feedback, refine tagging and analytics, and continuously improve the process and models.
 
 **Architecture & Workflow**
-End-to-End Pipeline (“Data In” to “Insights Out”):
-Raw Content Data
+
+_End-to-End Pipeline (“Data In” to “Insights Out”):_
+**Raw Content Data**
 ⬇️
 
 **Azure AI Data Ingestion & Cleaning**

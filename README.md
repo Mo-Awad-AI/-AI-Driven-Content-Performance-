@@ -63,5 +63,8 @@ Python 3.8+,
 Sample data files (CSV/Excel)_
 
 
+## Contact
+Questions / contributions: moawadmarketing@gmail.com
+
 ![Built by Mo Awad](https://img.shields.io/badge/Built%20by-Mo%20Awad-1e90ff?style=for-the-badge&logo=github)
 
